@@ -14,11 +14,13 @@ SuperStore_Sales_Dataset.csv
 ## DASHBOARD PREVIEW:
 
 
+![f1](https://github.com/Dibyadarshi-Kashyap/SuperStore_Sales_Dashboard/assets/36098874/c0542f2a-ab18-495d-b7f2-be80906eb8ce)
 
-![1](https://github.com/Dibyadarshi-Kashyap/SuperStore_Sales_Dashboard/assets/36098874/c7229cf1-e05e-4237-9899-e13b44ec8d32)
 
 
-![2](https://github.com/Dibyadarshi-Kashyap/SuperStore_Sales_Dashboard/assets/36098874/2e300530-584a-48d6-b1ca-1b516a418c65)
+
+![f2](https://github.com/Dibyadarshi-Kashyap/SuperStore_Sales_Dashboard/assets/36098874/121c015d-9947-4131-a31d-6e1cbd99cd5c)
+
 
 ## INSIGHTS:
 
